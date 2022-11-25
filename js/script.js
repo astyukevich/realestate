@@ -8,7 +8,7 @@ const swiper = new Swiper('.slider-main-block', {
 	},
 });
 
-// Таби
+// Tabs
 const tabNavItems = document.querySelectorAll('.tabs-deals__button');
 const tabItems = document.querySelectorAll('.item-tabs');
 document.addEventListener("click", function (e) {
